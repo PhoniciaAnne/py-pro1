@@ -1,4 +1,4 @@
-# Weather Prediction Model
+# Weather Prediction Model Using python
 
 This project implements a simple weather prediction model using static values for the variables `w`, `W`, `h`, and `t`. The prediction is calculated based on a hypothetical formula.
 
@@ -8,9 +8,6 @@ This project implements a simple weather prediction model using static values fo
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Example](#example)
-- [Contributing](#contributing)
 
 
 ## Introduction
